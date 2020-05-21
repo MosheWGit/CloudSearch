@@ -1,2 +1,2 @@
 # MLCloudSearch
-Tooling built to facilitate hyper-parameter search on Scikit-Learn and Tensorflow Keras Models. Training can be done locally or on the Cloud. Currently, only Google Cloud Platform (GCP) is the only supported cloud platform.
+MLCloudSearch presents tooling built to facilitate the use of Scikit-Learn and Tensorflow Keras Models. The name MLCloudSearch was inspired by the Machine Learning technique of searching for the best parameters to use in fitting a model, commonly referred to as Hyper-Parameter Search. Training can be done locally or on the Cloud. Currently, only integration with Google Cloud Platform (GCP) is the only supported cloud platform.
